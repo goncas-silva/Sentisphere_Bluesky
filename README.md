@@ -1,11 +1,20 @@
-#Sentisphere Bluesky
+# Sentisphere
 
-![Funcionality]
+Sentisphere is a data analysis project that collects public posts from Bluesky and analyzes the sentiment expressed in them.
 
--[x] Reatriving data from Bluesky APIS
+The goal is to allow users to search for a topic and understand the overall sentiment surrounding it.
 
--[x] Analysis of the data retrieved
+## Functionality
 
--[] Display to user overall sentiment of the search subject
+- [x] Retrieve data from the Bluesky API
+- [x] Analyze the retrieved data
+- [ ] Display the overall sentiment of the searched topic to the user
 
+## Project Structure
+
+```text
+Sentisphere/
+├── main.py
+├── README.md
+└── ...
 
