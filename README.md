@@ -14,7 +14,7 @@ The goal is to allow users to search for a topic and understand the overall sent
 
 ```text
 Sentisphere/
-├── main.py
+├── main.ipynb
 ├── README.md
 └── ...
 
