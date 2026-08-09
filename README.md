@@ -1,6 +1,6 @@
 #Sentisphere Bluesky
 
-![Funcionality]("sphere.png")
+![Funcionality]
 
 -[x] Reatriving data from Bluesky APIS
 -[x] Analysis of the data retrieved
