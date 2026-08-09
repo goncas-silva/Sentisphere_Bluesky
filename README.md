@@ -6,8 +6,8 @@ The goal is to allow users to search for a topic and understand the overall sent
 
 ## Functionality
 
-- [x] Retrieve data from the Bluesky API
-- [x] Analyze the retrieved data
+- [ ] Retrieve data from the Bluesky API
+- [ ] Analyze the retrieved data
 - [ ] Display the overall sentiment of the searched topic to the user
 
 ## Project Structure
